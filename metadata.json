@@ -1,0 +1,6 @@
+{
+  "name": "BidCheck AI - Procurement Fraud & Tender Compliance",
+  "description": "Intelligent procurement fraud detection, tender compliance verification, collusive bidding analysis, and audit workflow system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
